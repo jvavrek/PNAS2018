@@ -1,0 +1,17 @@
+./run82_metadata.TKA
+runNumber 82
+realSeconds 300
+acqMode pha
+
+Detector 0
+IP 10.0.0.3
+HV 1899 V
+
+Detector 2
+IP 10.0.0.5
+HV 3000 V
+
+Detector 3
+IP 10.0.0.6
+HV 4000 V
+

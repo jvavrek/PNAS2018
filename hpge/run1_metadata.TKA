@@ -1,0 +1,13 @@
+./run1_metadata.TKA
+runNumber 1
+realSeconds 15
+acqMode tlist
+
+Detector 0
+IP 10.0.0.3
+HV 0 V
+
+Detector 2
+IP 10.0.0.5
+HV 0 V
+

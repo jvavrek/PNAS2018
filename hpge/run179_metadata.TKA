@@ -1,0 +1,23 @@
+./run179_metadata.TKA
+runNumber 179
+realSeconds 300
+acqMode pha
+
+Detector 0
+IP 10.0.0.3
+HV 1899 V
+live time 0.000000 s
+real time 300.000000 s
+
+Detector 2
+IP 10.0.0.5
+HV 3000 V
+live time 0.000000 s
+real time 300.000000 s
+
+Detector 3
+IP 10.0.0.6
+HV 4000 V
+live time 0.000000 s
+real time 300.000000 s
+
